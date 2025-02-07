@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chauncy-xu
+- 👋 Hi, I’m @Shawn
 - 👀 I'm interested in operations research optimization, mainly integer programming, but also in machine learning and deep learning.
 - 💞️ Using deep learning models to deal with time series forecasting problems is an interesting direction.
 - 📫 My email address is xuxiaoyang19@mails.ucas.edu.cn
